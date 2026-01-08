@@ -1,0 +1,4 @@
+[submodule "oskr1087/l10n_pa_edi"]
+	path = oskr1087/l10n_pa_edi
+	url = git@github.com:oskr1087/l10n_pa_edi.git
+	branch = 19.0
